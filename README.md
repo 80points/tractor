@@ -1,3 +1,5 @@
+## This repository has moved to https://github.com/letsago/80points
+
 # 80 Points
 
 A trick-based game where teams of players earn points to advance their levels.
